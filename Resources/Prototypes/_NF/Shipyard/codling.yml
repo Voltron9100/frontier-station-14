@@ -1,25 +1,26 @@
 # Author Info
-# GitHub: erhardsteinhauer
-# Discord: erhardsteinhauer
+# GitHub: Voltron9100
+# Discord: Dogitch
 
 # Maintainer Info
-# GitHub: erhardsteinhauer
-# Discord: erhardsteinhauer
+# GitHub: Voltron9100
+# Discord: Dogitch
 
 # Shuttle Notes:
-#
+#This one is mine :3 Please don't touch her!!'
 - type: vessel
   id: Codling
   parent: BaseVessel
   name: MOFF Codling
-  description: A cargo container outfitted to be space-capable and equipped for salvaging and mining either on its own or as part of a fleet. Manufactured by Langstad-Voigt Heavy Industries.
-  price: 100 # ~9781$ on mapinit + 15% markup
+  description: Following in the spirit of, Langstad-Voigt Heavy Industries, Montegomery Olsons Freighter Fabrications, created the Codling. Cheap, compact, but with everything you'd need to begin tearing up the Frontier of it's resources.'
+  price: 18000
   category: Small
   group: Shipyard
   shuttlePath: /Maps/_NF/Shuttles/Codling.yml
   guidebookPage: Null
   class:
   - Salvage
+- - Mining
   engine:
   - Plasma
 
